@@ -22,23 +22,23 @@
     },
     "BOT_TOKEN": {
       "description": "Your bot token, as a string. @BotFather",
-      "value": ""
+      "value": "7407126254:AAGEH5Hj5O0myobo8Wu9V5ftr2WaEGH8nzQ"
     },
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "22420997"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "d7fbe2036e9ed2a1468fad5a5584a255"
     },
     "DATABASE_URL": {
       "description": "Your Mongodb Url",
-      "value": ""
+      "value": "mongodb+srv://Monster:<password>@bluster.ecuxl3h.mongodb.net/?retryWrites=true&w=majority&appName=Bluster"
     },
     "LOG_CHANNEL": {
       "description": "Your Any Own Private Channel ID Where Your Bot As Admin With Full Permission",
-      "value": ""
+      "value": "-1002247042400"
     },
     "UPDATES_CHANNEL": {
       "description": "Your Update channel id or skip",
@@ -50,11 +50,11 @@
     },
     "OWNER_ID": {
       "description": "Your Telegram ID For Broadcast",
-      "value": "1834908260"
+      "value": "7170426058"
     },
     "BOT_USERNAME": {
       "description": "Your Bot Username Without @",
-      "value": ""
+      "value": "Save_monster_bot"
     }
   },
   "addons": [
